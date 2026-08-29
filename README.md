@@ -121,6 +121,23 @@ The application scans the `music` folder using Python's `os` module and displays
 
 When a song is selected, **Pygame Mixer** loads and plays the MP3 file. The playback buttons allow the user to pause, resume, stop, and switch between songs. The volume slider controls the playback volume dynamically.
 
+## 📸 Working / Project Preview
+
+The MP3 Music Player provides a simple interface where users can select songs from the playlist and control playback using the available buttons.
+
+![MP3 Music Player Working](images/music_player.png)
+
+### 🎵 Working Flow
+
+1. **Select a song** from the playlist.
+2. Click **Play** to start the selected song.
+3. Use **Pause** to temporarily stop playback.
+4. Use **Continue** to resume the paused song.
+5. Use **Previous** and **Next** to navigate through the playlist.
+6. Use **Stop** to stop the current song.
+7. Adjust the **volume slider** to control the audio level.
+
+
 
 ## 👩‍💻 Author
 
